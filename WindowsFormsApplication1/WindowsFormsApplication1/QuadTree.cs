@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace WindowsFormsApplication1
 {//Yeni
-    /// QuadTree ağaç yapısı
+    /// QuadTree ağaç yapısııo
     /// Örneğin, bir oyun geliştiriliyorsa çarpışmalar için QuadTree <GameObject>
     /// veya yalnızca kimlikler ile doldurmak isteniyorsa QuadTree <int> kullanılabilir.
     /// </summary>

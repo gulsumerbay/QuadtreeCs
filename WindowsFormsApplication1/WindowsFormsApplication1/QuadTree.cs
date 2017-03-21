@@ -9,7 +9,7 @@ namespace WindowsFormsApplication1
     /// </summary>
     public class QuadTree<T>
     {
-        int ippsilt;
+        int ippsilty;
         internal static Stack<Branch> branchPool = new Stack<Branch>();
         internal static Stack<Leaf> leafPool = new Stack<Leaf>();
 
